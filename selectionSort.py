@@ -13,6 +13,6 @@ def selection_sort(arr):
     return arr
 
 
-arr = [64, 25, 12, 22, 11]
+arr = [200,60,300,10,700]
 sorted_arr = selection_sort(arr)
 print("Sorted array is:", sorted_arr)
