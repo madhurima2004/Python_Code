@@ -9,7 +9,7 @@ def quicksort(arr):
         return quicksort(left) + middle + quicksort(right)
 
 
-arr = [3, 6, 8, 10, 1, 2, 1]
+arr = [3, 60, 80, 10, 100, 2, 150]
 print("Original array:", arr)
 sorted_arr = quicksort(arr)
 print("Sorted array:", sorted_arr)
