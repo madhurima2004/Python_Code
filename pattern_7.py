@@ -9,4 +9,4 @@ def print_hollow_box(width, height):
         print() 
 
 # Example usage
-print_hollow_box(10, 5)
+print_hollow_box(7, 5)
