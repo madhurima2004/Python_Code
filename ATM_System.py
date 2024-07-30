@@ -17,7 +17,7 @@ def Withd(name,amt_of_withd):
             print(database[i][1])
         else:
            print("not allowed")     
-Withd("Bantu Sinha",2000)
+Withd("Rohit Sinha",2000)
 
 def Deposite(name,amt_of_deposite):
    for i in range(3):
