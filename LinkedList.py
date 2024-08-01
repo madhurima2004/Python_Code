@@ -133,7 +133,7 @@ my_linked_list.print_list()
 my_linked_list.append(5)
 my_linked_list.append(6)
 my_linked_list.append(7)
-# my_linked_list.print_list()
+my_linked_list.print_list()
 
 # my_linked_list.pop()
 # my_linked_list.pop()
