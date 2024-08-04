@@ -137,7 +137,7 @@ my_linked_list.print_list()
 
 my_linked_list.pop()
 my_linked_list.pop()
-# my_linked_list.pop()
+my_linked_list.pop()
 # my_linked_list.pop()
 # my_linked_list.pop()
 my_linked_list.print_list()
